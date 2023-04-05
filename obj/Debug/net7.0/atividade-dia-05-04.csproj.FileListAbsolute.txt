@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\atividade-dia-05-04\bin\Debug\net7.0\atividade-dia-05-04.exe
+C:\Users\54750759805\Desktop\atividade-dia-05-04\bin\Debug\net7.0\atividade-dia-05-04.deps.json
+C:\Users\54750759805\Desktop\atividade-dia-05-04\bin\Debug\net7.0\atividade-dia-05-04.runtimeconfig.json
+C:\Users\54750759805\Desktop\atividade-dia-05-04\bin\Debug\net7.0\atividade-dia-05-04.dll
+C:\Users\54750759805\Desktop\atividade-dia-05-04\bin\Debug\net7.0\atividade-dia-05-04.pdb
+C:\Users\54750759805\Desktop\atividade-dia-05-04\obj\Debug\net7.0\atividade-dia-05-04.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\atividade-dia-05-04\obj\Debug\net7.0\atividade-dia-05-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\atividade-dia-05-04\obj\Debug\net7.0\atividade-dia-05-04.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\atividade-dia-05-04\obj\Debug\net7.0\atividade-dia-05-04.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\atividade-dia-05-04\obj\Debug\net7.0\atividade-dia-05-04.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\atividade-dia-05-04\obj\Debug\net7.0\atividade-dia-05-04.dll
+C:\Users\54750759805\Desktop\atividade-dia-05-04\obj\Debug\net7.0\refint\atividade-dia-05-04.dll
+C:\Users\54750759805\Desktop\atividade-dia-05-04\obj\Debug\net7.0\atividade-dia-05-04.pdb
+C:\Users\54750759805\Desktop\atividade-dia-05-04\obj\Debug\net7.0\atividade-dia-05-04.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\atividade-dia-05-04\obj\Debug\net7.0\ref\atividade-dia-05-04.dll
